@@ -1,0 +1,6 @@
+{
+  "name": "Samurai Shift Monitor — Android Project Builder",
+  "description": "بيئة متكاملة لتخصيص وتصدير الكود المصدري الكامل لتطبيق أندرويد مراقبة وحجز شفتات ساموراي مع ملفات GitHub Actions لبناء APK تلقائياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
